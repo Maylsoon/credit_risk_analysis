@@ -59,3 +59,8 @@ The dataset is now well-prepared for future predictive modeling.
 - Scikit-learn
 - Imbalanced-learn
 - Jupyter Notebook
+
+- ## Notebook
+
+The complete analysis can be found in the Jupyter Notebook
+
